@@ -10,7 +10,7 @@
 	const DB_NAME = "db_tiendavirtual";
 	const DB_USER = "root";
 	//const DB_PASSWORD = "20dejunio";
-	const DB_PASSWORD = "secreto";
+	const DB_PASSWORD = "andrei2703";
 	const DB_CHARSET = "utf8";
 
 	//Para envío de correo
